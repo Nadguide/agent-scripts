@@ -16,4 +16,4 @@ apt install epel-release -y
 apt install git -y
 apt install vim -y
 
-echo  "package installation done"
+echo  "package installation ready"
